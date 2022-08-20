@@ -1,0 +1,39 @@
+*{
+
+    background-color: grey;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    color: seashell;
+    text-align: center;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:deepskyblue;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 35px;
+    
+}
+body{
+    text-align: center;
+}
+a{
+    color:black;
+}
+table{
+    margin:auto;
+}
+button{
+    border-radius: 22px;
+    border-style: double;
+    border-color: orange;
+    background-color: rgb(129, 126, 120);
+    font-size: medium;
+    color: lime;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
